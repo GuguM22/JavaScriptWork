@@ -1,0 +1,37 @@
+#form { background-color: rgb(241, 218, 244); border-radius: 30px; height: 700px; width: 500px; align-content: center; border-color: blueviolet ;}
+input {border-color: rgb(154, 14, 150); width: 200px; border-radius: 8px; text-align: center; height: 25px; color: blueviolet;}
+body {justify-content: center;
+    min-height: 100vh;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(
+      45deg,
+      hsl(240, 76%, 80%) 0%,
+      hsl(256, 70%, 82%) 9%,
+      hsl(311, 75%, 75%) 18%,
+      hsl(284deg 61% 92%) 27%,
+      hsl(271deg 97% 98%) 36%,
+      hsl(311, 65%, 84%) 45%,
+      hsl(198, 71%, 86%) 55%,
+      hsl(180, 70%, 82%) 64%,
+      hsl(232, 75%, 78%) 73%,
+      hsl(59deg 29% 95%) 82%,
+      hsl(24deg 42% 97%) 91%,
+      hsl(0deg 8% 97%) 100%
+    );}
+.motherdiv{ align-content: center; align-items: center; margin-left: 650px;}
+button{ background-image: linear-gradient(
+    45deg,
+    hsl(240deg 68% 76%) 0%,
+    hsl(256, 66%, 77%) 9%,
+    hsl(311, 81%, 58%) 18%,
+    hsl(284deg 61% 92%) 27%,
+    hsl(271deg 97% 98%) 36%,
+    hsl(311, 65%, 84%) 45%,
+    hsl(198, 71%, 86%) 55%,
+    hsl(180, 70%, 82%) 64%,
+    hsl(232, 67%, 59%) 73%,
+    hsl(59deg 29% 95%) 82%,
+    hsl(24deg 42% 97%) 91%,
+    hsl(0deg 8% 97%) 100%
+  ); width: 150px;}
